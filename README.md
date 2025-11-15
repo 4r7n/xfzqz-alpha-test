@@ -5,6 +5,10 @@ as in
 password.txt:
 *password*
 
+to run the program
+extract the zip
+then run xfzqz_alpha.exe !
+
 notes important:
 for better experience you should reload the file each sim/game
 whilst using v2 or v3(player controlled) balls, setting the health high, will cause greater loading time of spawning balls
