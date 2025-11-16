@@ -1,3 +1,5 @@
+[ALL YOU NEED TO DOWNLOAD IS THE ZIP FILE, THE EXE(APPLICATION) IS ALL YOU NEED TO RUN AND YOU ONLY SHOULD EDIT PASSWORD.TXT]
+
 @xfzqz game/sim alpha test
 
 edit password.txt with the given password to be able run the .exe
